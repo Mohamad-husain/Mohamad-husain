@@ -27,6 +27,8 @@ I love continuous learning, teamwork, and building applications that make users�
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-D71A21?style=flat&logo=junit5&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
