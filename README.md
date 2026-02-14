@@ -1,6 +1,6 @@
 <!-- Banner or Greeting -->
 <h1 align="center">👋 Hi, I'm Mohammad Hussain</h1>
-<h3 align="center">Software Engineering Student | Full stack Developer | Software Tester</h3>
+<h3 align="center">Software Engineering Student | Full stack Developer | QA Engineer</h3>
 
 ---
 
