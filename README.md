@@ -49,6 +49,7 @@ I love continuous learning, teamwork, and building applications that make users�
 
 ### 4️⃣ [E-commerce Trendella](https://github.com/Mohamad-husain/E-commerce-Trendella)  
 🛍️ An e-commerce website for clothing that allows users to browse products, add items to cart, and complete purchases with a clean and responsive design.
+
 ---
 
 ## 📊 GitHub Stats
