@@ -37,6 +37,7 @@ I love continuous learning, teamwork, and building applications that make users�
 ---
 
 ## 🚀 Featured Projects
+
 ### 1️⃣ [Online Job Portal System](https://github.com/HidayaAwwad4/ojps-web2)  
 💼 A platform that connects job seekers with employers to find suitable job opportunities.
 
@@ -46,6 +47,8 @@ I love continuous learning, teamwork, and building applications that make users�
 ### 3️⃣ [Secrets of Cities](https://github.com/Mohamad-husain/web2project)  
 🗺️ A web application showcasing mysterious places in Palestine, helping tourists explore them.
 
+### 4️⃣ [E-commerce Trendella](https://github.com/Mohamad-husain/E-commerce-Trendella)  
+🛍️ An e-commerce website for clothing that allows users to browse products, add items to cart, and complete purchases with a clean and responsive design.
 ---
 
 ## 📊 GitHub Stats
