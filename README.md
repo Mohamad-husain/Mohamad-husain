@@ -1,16 +1,20 @@
 <h1 align="center">Hi, I'm Mohammad Hussain 👋</h1>
 
 <p align="center">
-  <strong>Junior Full-Stack Developer · Software Engineering Student</strong>
+  <strong>Junior Full-Stack Developer · QA Engineer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohamad-husain?tab=repositories">Browse my repositories</a>
+  ·
+  <a href="mailto:mohammad.hussain.se@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohammad--hussain/">LinkedIn</a>
 </p>
 
 ## About Me
 
-I'm a junior full-stack developer and a fourth-year Software Engineering student at An-Najah National University. I enjoy building web and mobile applications that make everyday tasks easier, from helping students find campus resources to connecting customers with local service providers.
+I'm a junior full-stack developer in my fourth year of Software Engineering at An-Najah National University. I enjoy building web and mobile applications that make everyday tasks easier, from helping students find campus resources to connecting customers with local service providers.
 
 During my QA internship at ASAL Technologies, I gained hands-on experience in end-to-end test automation with Playwright and Selenium, as well as API testing. I bring that experience into development by testing the workflows users rely on.
 
@@ -51,12 +55,4 @@ A responsive clothing store with a product catalog, shopping cart, checkout, and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-husain&amp;show_icons=true&amp;theme=tokyonight" alt="Mohammad Hussain's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-husain&amp;layout=compact&amp;theme=tokyonight" alt="Top languages in Mohammad Hussain's GitHub repositories" height="165" />
-</p>
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:mohammad.hussain.se@gmail.com">Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/mohammad--hussain/">LinkedIn</a>
 </p>
